@@ -1,86 +1,81 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adam Srdanovic's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Adam Srdanovic
+Backend Developer
+<!-- Physicist, Mathematician, Cambridge professor. -->
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="srdanovic.adam@gmail.com">srdanovic.adam@gmail.com</a>
+<!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
+<!-- </div> -->
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Learning algorithms.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+<!-- Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke) -->
+Go, Javascript and Python
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Deepening my knowledge of Go, algorithms and learning C.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016 - 2019`
+__BA Audio Production, Middlesex University - SAE Institute, Belgrade__
+<!-- __The King's School, Grantham.__ -->
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2010 - 2013`
+Sociology and Anthropology, Universit ́e Paris Diderot
+<!-- __Trinity College, Cambridge__ -->
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+<!-- ## Publications -->
+<!---->
+<!-- <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) --> -->
+<!---->
+<!-- ### Journals -->
+<!---->
+<!-- `1669` -->
+<!-- Newton Sir I, De analysi per æquationes numero terminorum infinitas.  -->
+<!---->
+<!-- `1669` -->
+<!-- Lectiones opticæ. -->
+<!---->
+<!-- etc. etc. etc. -->
+<!---->
+<!-- ### Patents -->
+<!---->
+<!-- `2012` -->
+<!-- Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`2021 - 2023`
+__English Tutor__, Self Employed
+- Improved the spoken and written English of corporate professionals.
+- Edited their proposals and presentations.
 
-- Warden
-- Minted coins
+`2019 - 2020`
+__Customer Service Representative__, Transcom - Advanzia Bank Team
+- Learned new software quickly, such as TSYS TS2 and Super Office.
+- Quickly gained new responsibilities as part of the French market team.
+- Promoted to the Professional Customer Service team, dealing with international and B2B clients.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2018 - 2019`
+__Audio Engineer__, Self Employed
+- Mixed and mastered audio for student films and music projects. 
+- Composed and created audio samples.
+
 
 
 
