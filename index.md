@@ -22,7 +22,13 @@ I built a todo application built with Go, SQL, and the [GORM](https://gorm.io/in
 
 ### Specialized in
 
-Go, [Javascript](https://www.javascript.com/) and Python.
+Go, Python.
+
+### Proficient in
+Go, [Javascript](https://www.javascript.com/), Python, Vim ([Neovim](https://neovim.io/)), [Markdown](https://www.markdownguide.org/), SQL.
+
+### Fluent in
+English, French and Serbian.
 
 
 ### Research interests
