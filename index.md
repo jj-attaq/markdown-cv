@@ -14,7 +14,11 @@ Backend Developer
 
 ## Currently
 
-I am currently working on a [Telegram](https://telegram.org/) chatbot that will update me when and where there will be Salsa and Bachata parties in Belgrade. The bot will be built using [Playwright](https://playwright.dev/), [Python](https://www.python.org/) and [Go](go.dev). My previous prototype is available here [https://github.com/jj-attaq/party-bot](https://github.com/jj-attaq/party-bot).
+I am currently working on a [Telegram](https://telegram.org/) chatbot that will notify me when and where there will be Salsa and Bachata parties in Belgrade. The bot will be built using [Playwright](https://playwright.dev/) to scrape [Instagram](https://www.instagram.com/) instead of relying on [Apify](https://apify.com/apify/instagram-post-scraper) as was done in the prototype, the scraper will be written in [Python](https://www.python.org/) and the rest in [Go](go.dev). My previous prototype is available here [https://github.com/jj-attaq/party-bot](https://github.com/jj-attaq/party-bot).
+
+## Previous project
+
+I built a todo application built with Go, SQL, and the [GORM](https://gorm.io/index.html) ORM, assisted by [Postman](https://www.postman.com/), and [TablePlus](https://tableplus.com/). The application started simply, and grew into a much more complex project as I added functionality. The implementation of cookies was particularly interesting, though I found the task of organizing the code and connecting all the moving parts to be the most instructive part of the project. The code can be found here: [github.com/jj-attaq/todo/tree/new-todo-api](https://github.com/jj-attaq/todo/tree/new-todo-api)
 
 ### Specialized in
 
@@ -23,7 +27,7 @@ Go, [Javascript](https://www.javascript.com/) and Python.
 
 ### Research interests
 
-Deepening my knowledge of Go, algorithms and learning [C](https://www.cprogramming.com/).
+Deepening my knowledge of Go, SQL, algorithms and learning [C](https://www.cprogramming.com/).
 
 
 ## Education
@@ -52,6 +56,9 @@ __Customer Service Representative__, Transcom - Advanzia Bank Team
 __Audio Engineer__, Self Employed
 - Mixed and mastered audio for student films and music projects. 
 - Composed and created audio samples.
+
+<!-- `2011 - 2013` -->
+<!-- __Lead composer, lyricist and guitarist__ band: 'Ten past ten'. -->
 
 
 
