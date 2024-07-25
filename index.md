@@ -14,7 +14,7 @@ Backend Developer
 
 ## Currently
 
-I am currently working on a [Telegram](https://telegram.org/) chatbot that will update me when and where there will be Salsa and Bachata parties in Belgrade. The bot will be built using [Playwright](https://playwright.dev/), [Python](https://www.python.org/) and [Golang](go.dev). My previous prototype is available here [https://github.com/jj-attaq/party-bot](https://github.com/jj-attaq/party-bot).
+I am currently working on a [Telegram](https://telegram.org/) chatbot that will update me when and where there will be Salsa and Bachata parties in Belgrade. The bot will be built using [Playwright](https://playwright.dev/), [Python](https://www.python.org/) and [Go](go.dev). My previous prototype is available here [https://github.com/jj-attaq/party-bot](https://github.com/jj-attaq/party-bot).
 
 ### Specialized in
 
@@ -23,7 +23,7 @@ Go, [Javascript](https://www.javascript.com/) and Python.
 
 ### Research interests
 
-Deepening my knowledge of Go, algorithms and learning C.
+Deepening my knowledge of Go, algorithms and learning [C](https://www.cprogramming.com/).
 
 
 ## Education
