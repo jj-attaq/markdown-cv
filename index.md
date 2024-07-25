@@ -4,22 +4,21 @@ title: Adam Srdanovic's CV
 ---
 # Adam Srdanovic
 Backend Developer
-<!-- Physicist, Mathematician, Cambridge professor. -->
 
 <div id="webaddress">
 <a href="srdanovic.adam@gmail.com">srdanovic.adam@gmail.com</a>
-<!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
-<!-- </div> -->
+| <a href="https://github.com/jj-attaq/">github.com/jj-attaq</a>
+| <a href="https://www.linkedin.com/in/adam-srdanovic/">linkedin.com/in/adam-srdanovic</a>
+</div>
 
 
 ## Currently
 
-Learning algorithms.
+I am currently working on a [Telegram](https://telegram.org/) chatbot that will update me when and where there will be Salsa and Bachata parties in Belgrade. The bot will be built using [Playwright](https://playwright.dev/), [Python](https://www.python.org/) and [Golang](go.dev). My previous prototype is available here [https://github.com/jj-attaq/party-bot](https://github.com/jj-attaq/party-bot).
 
 ### Specialized in
 
-<!-- Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke) -->
-Go, Javascript and Python
+Go, [Javascript](https://www.javascript.com/) and Python.
 
 
 ### Research interests
@@ -30,35 +29,13 @@ Deepening my knowledge of Go, algorithms and learning C.
 ## Education
 
 `2016 - 2019`
-__BA Audio Production, Middlesex University - SAE Institute, Belgrade__
-<!-- __The King's School, Grantham.__ -->
+__BA Audio Production__, Middlesex University - SAE Institute, Belgrade
 
 `2010 - 2013`
-Sociology and Anthropology, Universit ́e Paris Diderot
-<!-- __Trinity College, Cambridge__ -->
+__Sociology and Anthropology__, Universite Paris Diderot
 
 
-<!-- ## Publications -->
-<!---->
-<!-- <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) --> -->
-<!---->
-<!-- ### Journals -->
-<!---->
-<!-- `1669` -->
-<!-- Newton Sir I, De analysi per æquationes numero terminorum infinitas.  -->
-<!---->
-<!-- `1669` -->
-<!-- Lectiones opticæ. -->
-<!---->
-<!-- etc. etc. etc. -->
-<!---->
-<!-- ### Patents -->
-<!---->
-<!-- `2012` -->
-<!-- Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
-
-
-## Experience
+## Occupation
 
 `2021 - 2023`
 __English Tutor__, Self Employed
