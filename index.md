@@ -18,7 +18,7 @@ I am currently working on a [Telegram](https://telegram.org/) chatbot that will 
 
 ## Previous project
 
-I built a todo application built with Go, SQL, and the [GORM](https://gorm.io/index.html) ORM, assisted by [Postman](https://www.postman.com/), and [TablePlus](https://tableplus.com/). The application started simply, and grew into a much more complex project as I added functionality. The implementation of cookies was particularly interesting, though I found the task of organizing the code and connecting all the moving parts to be the most instructive part of the project. The code can be found here: [github.com/jj-attaq/todo/tree/new-todo-api](https://github.com/jj-attaq/todo/tree/new-todo-api)
+I built a todo application built with Go, SQL, and the [GORM](https://gorm.io/index.html) ORM, assisted by [Postman](https://www.postman.com/), and [TablePlus](https://tableplus.com/). The application started simply, and grew into a much more complex project as I added functionality. The implementation of cookies was particularly interesting, though I found the task of organizing the code and connecting all the moving parts to be the most instructive part of the project. The code can be found here: [github.com/jj-attaq/todo/tree/new-todo-api](https://github.com/jj-attaq/todo/tree/new-todo-api).
 
 ### Specialized in
 
