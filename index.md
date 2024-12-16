@@ -21,14 +21,15 @@ Backend Developer
 
 
 ## Current Project
-I am currently working on a [Telegram](https://telegram.org/) chatbot that will notify me when and where there will be Salsa and Bachata parties in Belgrade. The bot will be built using the [Telegram bot API](https://github.com/go-telegram-bot-api/telegram-bot-api) and Apify’s [Instagram post scraper API](https://apify.com/apify/instagram-post-scraper) post scraper API.
+I am currently working on a [Telegram](https://telegram.org/) chatbot that will notify me when and where there will be Salsa and Bachata parties in Belgrade. The bot will be built using the [Telegram bot API](https://github.com/go-telegram-bot-api/telegram-bot-api) and Apify’s [Instagram post scraper API](https://apify.com/apify/instagram-post-scraper) post scraper API. The code can be found here: [https://github.com/jj-attaq/party-bot](https://github.com/jj-attaq/party-bot)
 <!-- I am currently working on a [Telegram](https://telegram.org/) chatbot that will notify me when and where there will be Salsa and Bachata parties in Belgrade. The bot will be built using [Playwright](https://playwright.dev/) to scrape [Instagram](https://www.instagram.com/) instead of relying on [Apify](https://apify.com/apify/instagram-post-scraper) as was done in the prototype, the scraper will be written in [Python](https://www.python.org/) and the rest in [Go](go.dev). My previous prototype is available here [https://github.com/jj-attaq/party-bot](https://github.com/jj-attaq/party-bot). -->
 
 ## Previous Project
-I built a todo application built with Go, SQL, and the GORM ORM, assisted by Postman, and TablePlus. The application started simply, and grew into a much more complex project as I added functionality. The implementation of cookies was particularly interesting, though I found the task of organizing the code and connecting all the moving parts to be the most instructive part of the project. The code can be found here: [github.com/jj-attaq/todo/tree/new-todo-api](github.com/jj-attaq/todo/tree/new-todo-api).
+I built a todo application built with Go, SQL, and the GORM ORM, assisted by Postman, and TablePlus. The application started simply, and grew into a much more complex project as I added functionality. The implementation of cookies was particularly interesting, though I found the task of organizing the code and connecting all the moving parts to be the most instructive part of the project. The code can be found here: [https://github.com/jj-attaq/todo/tree/new-todo-api](https://github.com/jj-attaq/todo/tree/new-todo-api).
+<!-- LINK IS NOT WORKING!!!!!!! -->
 
 ### Proficient in
-Go, Javascript, Python, Vim (Neovim), Markdown, SQL, Postman.
+[Go](https://go.dev/), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/about/), Vim ([Neovim](https://neovim.io/)), [Markdown](https://en.wikipedia.org/wiki/Markdown), [SQL](https://en.wikipedia.org/wiki/SQL), [Postman](https://www.postman.com/).
 
 ### Fluent in
 English, French and Serbian.
@@ -77,7 +78,7 @@ __Customer Service Representative__, Transcom - Advanzia Bank Team
 
 `2018 - 2019`
 __Audio Engineer__, Self Employed
-- Mixed and mastered audio for student films and music projects using: Ableton Live and Pro Tools and a variety of third party plugins.
+- Mixed and mastered audio for student films and music projects using: [Ableton Live](https://www.ableton.com/en/live/) and [Pro Tools](https://www.avid.com/pro-tools) and a variety of third party plugins.
 - Composed and created audio samples in Ableton Live using my knowledge of music theory and sound synthesis.
 
 
