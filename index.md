@@ -10,21 +10,26 @@ Go Developer
 <a href="mailto:srdanovic.adam@gmail.com">srdanovic.adam@gmail.com</a>
 | <a href="tel:+381652668763">+381 65 266 8763</a>
 | <a href="https://github.com/jj-attaq/">github.com/jj-attaq</a>
-| <a href="https://www.linkedin.com/in/adam-srdanovic/">linkedin.com/in/adam-srdanovic</a>
+<!-- | <a href="https://www.linkedin.com/in/adam-srdanovic/">linkedin.com/in/adam-srdanovic</a> -->
 </div>
 
 Self-taught Go developer with a background in audio production, focused on real-time networked systems and low-latency data transport. synth-stream grew out of that domain knowledge.
 
 ## Projects
 
-`2025 - present`
+`2026`
 __synth-stream__ — [github.com/jj-attaq/synth-stream](https://github.com/jj-attaq/synth-stream)
 
 Real-time MIDI collaboration tool built in Go. Two musicians can jam together over the internet via a custom binary protocol (TLV framing over TCP), with WebRTC DataChannel P2P connections and automatic TCP relay fallback. Includes JWT authentication, bcrypt password hashing, PostgreSQL with sqlc-generated queries, and a reconnection mechanism that preserves session state. Deployed on fly.io.
 
+`2026 - present`
+__bojanka__ — [bojanka.fly.dev](https://bojanka.fly.dev/)
+
+Hair color tracking app built and deployed for a hairdresser client. A phone-first CRUD app in Go (net/http, html/template) with PostgreSQL (Supabase), sqlc-generated queries, and Goose migrations. Dynamic UI via HTMX with no client-side JavaScript. Installable as a PWA. Deployed on fly.io.
+
 ## Skills
 
-Go, PostgreSQL, WebRTC, TCP
+Go, PostgreSQL, WebRTC, sqlc, Goose, Git
 
 ## Languages
 
